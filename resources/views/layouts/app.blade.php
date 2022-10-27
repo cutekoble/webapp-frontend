@@ -20,6 +20,7 @@
   
 
         @include('layouts.navbar')
+    
         @yield('content')
 
         <!-- Bootstrap core JS-->
